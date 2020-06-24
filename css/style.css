@@ -1,0 +1,83 @@
+body{
+    background: #e6ee9c  ;
+    color: aqua;
+}
+.navbar{
+    border-bottom: 3px solid #00e676 ;
+    background: black;
+    opacity: 0.7;
+}
+#home-section{
+background: url(../img/20200623_175805.jpg) no-repeat top;
+min-height: 700px;
+background-attachment: fixed;
+background-size: cover;
+
+}
+#home-section .dark-overlay{
+    background: rgba(0, 0, 0, 0.7);
+    min-height: 700px;
+}
+#home-section .home-inner{
+    padding-top: 150px;
+    padding-bottom: 50px;
+}
+.icon-hand-down{
+    font-size: 30px;
+    border-radius: 3px;
+}
+#home-section .icon-check{
+    background: white;
+    color: #ec407a;
+    padding: 2px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+.p-4{
+    font-size: 30px;
+}
+.service{
+    font-size: 30px;
+}
+#village-head-section{
+    font-size: 35px;
+}
+.village-main-section{
+    background: #BAB8BC;
+    color: rgb(10, 10, 10);
+}
+.village-main-section .icon-arrow-right{
+    background: black;
+    color: white;
+     font-size: 30px;
+    border-radius: 5px;
+    
+    
+}
+.court-pic{
+    width: 550px;
+    height: 400px;
+    border-radius: 5px;
+}
+#it-head-section{
+    font-size: 35px;
+    background: red;
+    color: rgb(10, 10, 10);
+}
+.it-main-section{
+    background:#D8D6D9;
+    color: rgb(10, 10, 10);
+}
+.it-main-section .icon-arrow-right{
+    background: red;
+    color: white;
+     font-size: 30px;
+    border-radius: 5px;
+    
+    
+}
+.court-pic{
+    width: 550px;
+    height: 400px;
+    border-radius: 5px;
+}
